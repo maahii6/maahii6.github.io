@@ -1,4 +1,4 @@
- a Data Analyst. I hold a Bachelor's Degree in Bachelor of Technology in Computer Science from Graphic Era Hill University.
+I am a Data Analyst. I hold a Bachelor's Degree in Bachelor of Technology in Computer Science from Graphic Era Hill University.
 
 My skills include Python, MySQL, Excel, Power BI, Data Visualization, HTML/CSS, JavaScript, and C++.
 I am familiar with Machine Learning and Artificial Intelligence.
